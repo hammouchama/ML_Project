@@ -3,16 +3,10 @@
 /node_modules
 /.pnp
 .pnp.js
-<<<<<<< HEAD
 /backup
 /data
-=======
-
-/backup
-/modelD.zip
 
 
->>>>>>> c4899462efdcbe4c2df8d4c2e2d49e28c0967768
 # testing
 /coverage
 
